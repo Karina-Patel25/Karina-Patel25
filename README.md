@@ -20,7 +20,7 @@ An aspiring data analyst with a passion for exploring the world of data and anal
 
 - 💬 Ask me about **Exploratory Data Analysis**
 
-- 📫 How to reach me **kinu5280@gmail.com**
+- 📫 How to reach me **karinapatel258@gmail.com**
 
 - 🧠 I'm excited about exploring new data projects and collaborating with mentors and fellow data enthusiasts.
 Feel free to connect with me and explore data-related projects I've worked on!**
